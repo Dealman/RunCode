@@ -1,5 +1,5 @@
 # SS-RunCode
-Resource for FiveM(GTA V Mod) to run code directly via the chat.
+Resource for FiveM *(GTA V Multiplayer Mod)* which lets users execute client and serve-rside code directly via the ingame chat for quick testing.
 
 # Guidelines
 Please refer to my FiveM thread for more information. I'm lazy and may update the readme later. Sorreh breh
